@@ -21,62 +21,8 @@ img {
     display: flex;
 }
 
-.container {
-    width: 95%;
-    margin: 0 auto;
-}
 
 /* Main */
 /* Main */
 /* Main */
 
-header {
-    height: 75px;
-    align-items: center;
-}
-
-header section {
-    justify-content: space-between;
-    align-items: center;
-    width: 95%;
-    margin: 0 auto;
-}
-
-main .jumbotron {
-    background-color: white;
-}
-
-main .jumbotron .box {
-    height: 360px;
-    width: 310px;
-    border-radius: 20px;
-    background-color: #BDDCFC;
-    margin: 10px;
-    display: flex;
-    flex-direction: wrap;
-    flex-direction: column;
-}
-
-main .jumbotron .primo {
-    height: 610px;
-}
-
-/*Responsive*/
-
-@media screen and (min-width: 480px){
-
-    .jumbotron .box {
-        width: 230px;
-        height: 440px;
-    }
-    .jumbotron .primo {
-        width: 560px;
-        height: 490px;
-    }
-
-    .jumbotron .secondo {
-      width: 230px;
-      height: 490px;  
-    }
-
-}
