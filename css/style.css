@@ -4,3 +4,22 @@
     box-sizing: border-box;
 }
 
+img {
+    width: 100%;
+}
+
+/* Utilities */
+/* Utilities */
+/* Utilities */
+
+.blue {
+    background-color: #3982F5;
+}
+
+/* Main */
+/* Main */
+/* Main */
+
+header {
+    height: 75px;
+}
